@@ -3,4 +3,4 @@
 ## Local Run 
 To run locally
 1. Navigate to the project root
-2. Execute command: `mvn clean install`
+2. Execute command: `mvn clean test`
